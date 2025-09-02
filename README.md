@@ -21,7 +21,7 @@
 - **(Optional)**: Room for caching offline
 
 ---
-![Braydon's GitHub Banner](./converter.jpg)
+(./converter.jpg)
 ---
 ## 🚀 Quick Start
 
